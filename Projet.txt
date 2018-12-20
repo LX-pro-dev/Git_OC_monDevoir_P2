@@ -1,4 +1,5 @@
-les étapes du projet
+les Ã©tapes du projet
 1) afficher message d'accueil
-2) lancer une requète pour aller chercher aléatoirement un message positif dans une base de donnée
-3) afficher le message
+2) lancer chaque jour une requÃ¨te
+3) cette requÃ¨te doit aller chercher alÃ©atoirement un message positif dans une base de donnÃ©e
+4) afficher le message
