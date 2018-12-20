@@ -1,0 +1,1 @@
+This application is design to send you a positive message each day.
